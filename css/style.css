@@ -1,0 +1,32 @@
+/* This is a comment! */
+
+/* Review CSS Syntax
+  selector {
+    property: value;
+    property: value;
+  }
+
+*/
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script|Elsie+Swash+Caps:400,900');
+
+p {
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
+figcaption {
+  font-weight: normal;
+  font-size: 0.75em;
+  line-height: 1.5em;
+  font-family: "Elsie Swash Caps", cursive;
+  color: gray;
+  text-align: right;
+}
+
+.milk-text {
+  font-weight: bold;
+  font-size: 2.6em;
+  font-family: "Elsie Swash Caps", cursive;
+  color: white;
+  text-shadow: 0 2px 3px #000;
+}
